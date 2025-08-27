@@ -119,4 +119,3 @@ public void deposit(int pwd, double amount){
 
 
 
-//&& amount<a.availableBalance
